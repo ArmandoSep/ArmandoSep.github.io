@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: subtitle
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Header
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Smaller header
 
-What else do you need?
+### Smallest header
 
-### my history
+This is some paragraph text
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Link to Google](www.google.com)
+
+![Penguins](https://oceanwide-4579.kxcdn.com/uploads/media-dynamic/cache/jpg_optimize/uploads/media/default/0001/40/thumb_39273_default_1600.jpeg)
+
