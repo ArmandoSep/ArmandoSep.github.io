@@ -6,9 +6,7 @@ subtitle: I'm a visionary who is learning how to execute
 
 # Overview
 
-First of all, thank you for reading about me. If you haven't, please reach out via LinkedIn. Let's see how we can collaborate.
-
-Alright, let me share some areas of my path with you.  
+First of all, thank you for reading about me. If you haven't, please reach out via LinkedIn. Let's see how we can collaborate. Alright, let me share some areas of my path with you.  
 
 I'm a purpose-driven man. I will learn whatever has to be learned, motivate whoever has to be motivated and be disciplined to execute the vision. No matter how long it takes, I will find a way to accomplish the goal. Moreover, I can thrive in startup (chaotic) environments. I'm able to develop creative strategies, going around walls (restrictions). And I'm not afraid of big changes, even if it means throwing weeks of work to the garbage, becasue the learning stays. 
 
@@ -38,10 +36,9 @@ I'm expectant of what's comming next. With the available information, these are 
 *   I'm a curious person, I enjoy to learn and solve challenges, and experience new things (I have skydived twice). 
 *   I believe that we can use our influence to positively impact other people's lives.
 *   I've decided to follow Jesus. It was a life changing desition. Ask me about my testimony. 
-*   El
+*   I love be surruounded, listen and learn from people. I work hard on my leadership skills.
 
 
-This is some paragraph text
 
 [Link to Google](www.google.com)
 
