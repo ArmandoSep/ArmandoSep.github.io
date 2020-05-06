@@ -21,10 +21,8 @@ description: Armando's Portfolio Website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Google: "http://www.google.com/"
-    - GitHub: "http://www.github.com/"
-  Armando's LinkedIn: "https://www.linkedin.com/in/armando-sepulveda/"
+  GitHub: "https://github.com/ArmandoSep/"
+  LinkedIn: "https://www.linkedin.com/in/armando-sepulveda/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -73,7 +71,7 @@ social-network-links:
 #  twitter: daattali
 #  facebook: deanattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: armando-sepulveda
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
