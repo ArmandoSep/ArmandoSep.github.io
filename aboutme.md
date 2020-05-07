@@ -40,7 +40,6 @@ I'm expectant of what's comming next. With the available information, these are 
 
 
 
-[Link to Google](www.google.com)
-
-![Penguins](https://oceanwide-4579.kxcdn.com/uploads/media-dynamic/cache/jpg_optimize/uploads/media/default/0001/40/thumb_39273_default_1600.jpeg)
+![Team of volunteers](https://armando-sepulveda.com/img/wearefamily.JPG)
+I developed a team of volunteer fotographers for a side project [WeAre App](www.weareapp.co)
 
