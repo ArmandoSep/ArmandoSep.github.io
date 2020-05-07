@@ -15,13 +15,13 @@ I'm a business administration and entrepreneurship student at Tec de Monterrey (
 ## Background
 
 I'm blessed that a lot of people have believed and invested on me. I'm confident that I will do at least the same for others. 
-*   Got a full-tuition univerity scholarship from an entrepreneur from Silicon Valley. 
-*   Got a scholarship for the TrepCamp Program. Where I got my first expousure to tech trends. 
-*   Got 
-*   Got 
-*   With only three other students, I got to be part of the Innovators for the Americas program at ITESM. We had a program kickoff in Maimi and a final pitch in Santiago, Chile. 
-*   I'm comfortable with risk. I used part of my savings to spend a month in Silicon Valley without knowing anyone or any meetings. Just to get to know the ecosystem and meet entrepreneurs and tech executives. A mentor helped me get free housing and a car. It was an amazing adventure. 
-*   I don't walk alot. Amazing mentors have been part of my journey, ranging from entrepreneurs, business executives, university's board members, to professors, and peers. 
+*   In 2016, I got a full-tuition univerity scholarship from an entrepreneur from Silicon Valley. 
+*   In 2016, I got a scholarship for the TrepCamp Program. Where I got my first expousure to tech trends. 
+*   In 2016, along with my brother, we were responsible for leading a team on a crowdfunding campaign to collect 400 blankets for children who live in poor conditions.
+*   In 2017, I got to be part of the Student Government group at my university. I was responsible for allocating sponsorships for events that benefitted the 14,000 students on campus. 
+*   In 2019, I was choose, with only three other students, to be part of the Innovators for the Americas program at ITESM. We had a program kickoff in Maimi and a final pitch in Santiago, Chile. 
+*   In 2019, I used part of my savings to spend a month in Silicon Valley without knowing anyone or any meetings. Just to get to know the ecosystem and meet entrepreneurs and tech executives. A mentor helped me get free housing and a car. It was an amazing adventure that made me to be comfortable with risk.
+*   I don't walk alone. Amazing mentors have been part of my journey, ranging from entrepreneurs, business executives, university's board members, to professors, and peers. 
 
 ## What's comming next
 
@@ -41,5 +41,5 @@ I'm expectant of what's comming next. With the available information, these are 
 
 
 ![Team of volunteers](https://armando-sepulveda.com/img/wearefamily.JPG)
-I developed a team of volunteer fotographers for a side project [WeAre App](www.weareapp.co)
+Picture the volunteer photographers team that I took care for a side project [WeAre App](www.weareapp.co)
 
